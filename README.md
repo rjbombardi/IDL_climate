@@ -6,4 +6,4 @@ For example:
  - Wilcoxon Signed Rank Test
  - Mann Kendall Test
  - Calculating Harmonics of time series
- -
+ - A function for ploting stippling over figures to show statistical significance in maps
